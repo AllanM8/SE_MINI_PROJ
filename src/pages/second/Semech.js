@@ -10,7 +10,8 @@ const Semech = () => {
           <h3>Engineering Mathematics -III</h3>  
           <p> Higher Engineering Mathematics, Dr. B. S. Grewal, Khanna Publication</p> 
           <p>Advanced Engineering Mathematics, Erwin Kreyszig, Wiley Eastern Limited, 9th Ed.</p>   
-          <p>Advanced Engineering Mathematics, R. K. Jain and S.R.K. Iyengar, Narosa publication  </p> 
+          <p>Advanced Engineering Mathematics, R. K. Jain and S.R.K. Iyengar, Narosa publication  </p>
+          <p>Advanced Physics, R. K. Jain and S.R.K. Iyengar, Narosa publication  </p>
           
         
         </div>
